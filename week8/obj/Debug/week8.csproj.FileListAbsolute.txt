@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\.ahihi\week8\week8\bin\Debug\week8.exe.config
+E:\LuuDuLieuSinhVien\.ahihi\week8\week8\bin\Debug\week8.exe
+E:\LuuDuLieuSinhVien\.ahihi\week8\week8\bin\Debug\week8.pdb
+E:\LuuDuLieuSinhVien\.ahihi\week8\week8\obj\Debug\week8.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\.ahihi\week8\week8\obj\Debug\week8.Form1.resources
+E:\LuuDuLieuSinhVien\.ahihi\week8\week8\obj\Debug\week8.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\.ahihi\week8\week8\obj\Debug\week8.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\.ahihi\week8\week8\obj\Debug\week8.exe
+E:\LuuDuLieuSinhVien\.ahihi\week8\week8\obj\Debug\week8.pdb
